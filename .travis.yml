@@ -5,3 +5,4 @@ php:
   
 script:
 - php micodigo.php
+- php hola.php

@@ -1,4 +1,4 @@
 <?php
-error
+//error
 echo "Hola mundo desde mi codigo.";
 ?>
